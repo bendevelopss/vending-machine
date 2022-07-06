@@ -1,4 +1,4 @@
-# react-vending-machine
+# EMAPTA TECHNICAL ASSEMENT
 # INSTALLATION
 
 1. There should be installed or downloaded Git, Node and NPM on you local machine
