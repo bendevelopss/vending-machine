@@ -12,4 +12,6 @@
 4. On the terminal, run `npm run dev` to run the react application.
 
 Note: 
-    I have included all dependencies (node_modules folder) on the folder in google drive, So that you won't be having problems with dependencies and installation. Please let me know if you will have problems. I am currently running it on MacOS Monterey 12.4. 
+   1. I have included all dependencies (node_modules folder) on the folder in google drive, So that you won't be having problems with dependencies and installation. Please let me know if you will have problems. I am currently running it on MacOS Monterey 12.4. 
+
+   2. I have also created a github repository just in case 
